@@ -1,0 +1,5 @@
+ReservationID,UserID,Location,UnitID,Date,Time,Reserved_from,Reserved_to,Status
+R001,U002,Oslo,D003,2024-04-04,14:17:47,12:00,14:00,Active
+R002,U001,Oslo,D003,2024-04-12,13:11:00,18:00,20:00,Finished
+
+R003,U002,Oslo,D003,2024-04-12,13:23:29,19:00,19:30,Active

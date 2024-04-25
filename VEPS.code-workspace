@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../GitHub/Joffeey.github.io"
+		},
+		{
+			"name": "esp8266",
+			"path": "../../Dokumenter/PlatformIO/Projects/esp8266"
+		}
+	],
+	"settings": {}
+}
